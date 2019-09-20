@@ -18,15 +18,15 @@
         "syntax": 16
     },
     "microgateway-plugins@3.0.8" : {
-        error_count: 12,
-        by_file: {
-            '../apikeys/index.js': 2,
-            '../cloud-foundry-route-service/index.js': 3,
-            '../extauth/index.js': 2,
-            '../oauth/index.js': 3,
-            '../oauthv2/index.js': 2
+        "error_count": 12,
+        "by_file": {
+            "../apikeys/index.js": 2,
+            "../cloud-foundry-route-service/index.js": 3,
+            "../extauth/index.js": 2,
+            "../oauth/index.js": 3,
+            "../oauthv2/index.js": 2
         },
-        quality: 10,
-        syntax: 4
+        "quality": 10,
+        "syntax": 4
     }
 }
